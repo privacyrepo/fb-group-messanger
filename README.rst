@@ -13,7 +13,7 @@ Features
 
 * Sends messages to any group you are in, to all members
 * Finds members name and inserts the first name in your message
-* Doesnt sends message if you sent message to member 30 min before that
+* Doesnt sends message if you sent message to member 30 min before that, so you wont spam the members.
 * Sends different messages to someone that you never engaged with before
 
 How to Run the script
