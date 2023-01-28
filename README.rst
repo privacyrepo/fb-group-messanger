@@ -30,6 +30,7 @@ Run the script with Python3
 
 ```
 python main.py
+```
 
 Credits
 -------
