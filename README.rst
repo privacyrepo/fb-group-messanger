@@ -28,9 +28,9 @@ Edit your message at the message and first_message objects.
 
 Run the script with Python3
 
-``
+```
 python main.py
-``
+```
 
 Credits
 -------
